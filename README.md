@@ -4,4 +4,4 @@
 2. download build.bat, win32config
 3. extract live555.tar.gz
 4. copy build.bat, win32config to live directory. 
-5. build x64 or build x86. 
+5. build x64 or build x86. use -i option to copy the include files also. 
